@@ -2,7 +2,18 @@
 
 [[toc]]
 
-## Start Shizuku
+## Start ShizuStarting with wireless adb in port 35465...
+
+info: starter begin
+info: killing old process...
+info: killed 22546 (shizuku_server)
+info: use apk path from argv
+info: apk path is /data/app/~~q6d1Km3uS0ANDeXGvv0NNw==/moe.shizuku.privileged.api-125cmTyi-9Y9POvTKfYijQ==/base.apk
+info: starting server...
+info: shizuku_server pid is 24361
+info: shizuku_starter exit with 0
+
+Waiting for service...ku
 
 Shizuku supports startup in the following three ways.
 
