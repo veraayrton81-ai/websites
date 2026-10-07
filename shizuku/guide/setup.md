@@ -5,7 +5,7 @@
 ## Start Shizuku
 
 Shizuku supports startup in the following three ways.
-
+adb shell /data/app/~~q6d1Km3uS0ANDeXGvv0NNw==/moe.shizuku.privileged.api-125cmTyi-9Y9POvTKfYijQ==/lib/arm64/libshizuku.so
 ::: tip If you are using GrapheneOS
 
 System settings - "Security" - "Secure app spawning" may need to be disabled.
